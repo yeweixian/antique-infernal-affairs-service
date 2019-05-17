@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: antique-infernal-affairs-service
+
+server:
+  port: 8080
